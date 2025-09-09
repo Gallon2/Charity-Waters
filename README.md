@@ -268,8 +268,8 @@
     <h2>Impact & Results</h2>
     <p>Your fundraising and donations make real change possible. Together, we’re bringing clean water, health, and opportunity to communities worldwide.</p>
     <div class="impact-images">
-      <img src="https://cdn2.dropmarkusercontent.com/52043/3c41bf40a9ecc32cb880dcea6cc52dda7d385ed20d6ca1236aa05f3ce4fe23f1/CF033841.jpg?Expires=1757290958&Signature=RKBFc0mxnmhN~j343QAuVvF~4Zg-0vJFPff1koruTv5CrCQ~~m1VNXD7vAifFduNp0dw~maPfFZqaPCwD06Cwuyd6HKGVyZAu0uynyhgTM~eite2icmbhZBy5SveFz7mwW8xRh6Xvpdoyatk-hk9yX-ePlUS9~VjW4FuVHXKQCQ2IXCXVJnpGML7z82PmBV-BAtx1ShEgh1A77FLyzKKCOeJ-4VOQRXxaUL2IxwAWyWrmS0d9POaOLbrhX-sRIlI~21wcIPXYlfF6VvbVVLvQhiRr75NuN5tnSf0XG76OjljMO-wfMov2Ex1o48zbEt3CGgGEsu4TPhGS~mAW66xrQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ" alt="Child drinking clean water">
-      <img src="https://cdn2.dropmarkusercontent.com/52043/3c06fe2513f3e1ec97c562b115346602b41a3c981e2800ed73b3b49ced024b9f/Rwanda-2018-march-cw-cubbygraham-0613.jpg?Expires=1757290883&Signature=aJ~RyoKBKEhzKisJyL64~a-Jeh6rkFJ-XH17bLQPM8XVYeOHdCDrW59Lv7CVv~177MjIj0Ge1-gU7wyM71FkGJiIzUhbIOdOxrxdwB4yfgzRcLuU4PPobesU35iTCdDwsnsPMTID9KSYMgy29n4r-lcscsu2li~okVvnoXY4Ht0-~0Q30ncNN86~X2Nu1RIX5-nlc2XXWL0oOxoI3sDZZwZGCil5URhceHUYqqOOnOlZmuy9wsTNu6bdczuirxp0VHhIRivCj1UiYoayNUO5~wZCDyHJmFp5j43Y-n5khAYBkyA59wYlBAiqfIZExaCAgphdiAIxvZ-KxbyaDwvYdg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ" alt="Filling water container">
+      <img src="child drinking.jpg" alt="Child drinking clean water">
+      <img src="Fauct with Water.jpg" alt="Filling water container">
     </div>
   </section>
 
